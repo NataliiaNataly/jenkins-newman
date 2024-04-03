@@ -6,7 +6,7 @@
     "test": "tests"
   },
   "scripts": {
-    "postman-api-test": "newman run tests/Test_Fake_Collection.postman_collection.json"
+    "postman-api-test": "newman run tests/Test_Fake_Collection.postman_collection.json --reporters cli"
   },
   "author": "Nataliia Kudria",
   "dependencies": {
