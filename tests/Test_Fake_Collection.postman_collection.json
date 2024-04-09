@@ -26,12 +26,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://jsonplaceholder.typicode.com/posts",
+					"raw": "{{API_ENDPOINT}}/posts",
 					"protocol": "https",
 					"host": [
-						"jsonplaceholder",
-						"typicode",
-						"com"
+						"{{API_ENDPOINT}}"
 					],
 					"path": [
 						"posts"
