@@ -8,7 +8,7 @@
   "scripts": {
     "postman-api-test": "newman run tests/Test_Fake_Collection.postman_collection.json --reporters cli --disable-unicode"
   },
-  "author": "Nataliia Kudria",
+  "author": "Natalia Kudria",
   "dependencies": {
     "newman": "^6.1.2"
   }
