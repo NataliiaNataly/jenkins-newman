@@ -27,7 +27,6 @@
 				"header": [],
 				"url": {
 					"raw": "{{API_ENDPOINT}}/posts",
-					"protocol": "https",
 					"host": [
 						"{{API_ENDPOINT}}"
 					],
