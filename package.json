@@ -1,15 +1,15 @@
-{
-  "name": "postman-newman-jenkins",
-  "version": "1.0.0",
-  "description": "Postman API test (fake)",
-  "directories": {
-    "test": "tests"
-  },
-  "scripts": {
-    "postman-api-test": "newman run tests/Test_Fake_Collection.postman_collection.json --reporters cli --disable-unicode"
-  },
-  "author": "Nataliia Kudria",
-  "dependencies": {
-    "newman": "^6.1.2"
-  }
-}
+//{
+//  "name": "postman-newman-jenkins",
+//  "version": "1.0.0",
+//  "description": "Postman API test (fake)",
+//  "directories": {
+//    "test": "tests"
+//  },
+//  "scripts": {
+//    "postman-api-test": "newman run tests/Test_Fake_Collection.postman_collection.json --reporters cli --disable-unicode"
+//  },
+//  "author": "Nataliia Kudria",
+//  "dependencies": {
+//    "newman": "^6.1.2"
+//  }
+//}
