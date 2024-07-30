@@ -75,7 +75,7 @@
 					"script": {
 						"exec": [
 							"pm.test(\"Test status\", function () {\r",
-							"    pm.response.to.have.status(200);\r",
+							"    pm.response.to.have.status(201);\r",
 							"});"
 						],
 						"type": "text/javascript",
